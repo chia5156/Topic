@@ -1,22 +1,27 @@
-# 實作說明
+# Indroduction of Captch
 
 ## What is Captcha?
   * Captcha (English: Completely Automated Public Turing test to tell Computers and Humans Apart
     主要用途: 全自動區分電腦和人類的測試
-## How Captcha work ?
-  * Server create the picture which combine the distorted letter or image and send it to client side  
+  * How Captcha work ?
+    Server create the picture which combine the distorted letter or image and send it to client side  
+---
+## Ours Goals
+  ** We want to predict the answer of Captcha and get over 95% correct percentage **
 
+---
 
+## Image Process
 
+  * How we get sample: Download the Captcha image from website (https://course.fcu.edu.tw/validateCode.aspx
 
+  * Captcha description: 
+    The Captcha is maked up with 4 number which is random choosed from number 0-9.
+    Image size: (22, 50)
+    
+  * Count of Captcha: 10000
 
-## 圖像處理
-
-  * 獲取途徑: 藉由觀察驗證碼的規律, 手動生成類似的驗證碼。
-
-  * 文字種類: 26個英文字母, 10個阿拉伯數字
-
-  * 圖片總數: 10000筆由演算法所生成的圖片
+  
 
 
 
