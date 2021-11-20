@@ -7,7 +7,7 @@
     Server create the picture which combine the distorted letter or image and send it to client side  
 ---
 ## Ours Goals
-  ** We want to predict the answer of Captcha and get over 95% correct percentage **
+  **We want to predict the answer of Captcha and get over 95% correct percentage**
 
 ---
 
