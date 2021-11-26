@@ -23,16 +23,10 @@
   
   ![captcha](./image/00001.jpg)
  
-$$
-begin{matrix}
-a & b & c \\\
-d & e & f \\\
-end{matrix}
-$$
-  
 
 
 
+$e^{i*\pi} +1 = 0$ is a beautiful equation
 
 
 
