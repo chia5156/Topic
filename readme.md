@@ -26,7 +26,7 @@ $$\begin{matrix}
 0&1&1\\
 1&1&0\\
 1&0&1\\
-\end{matrix}$$
+\end{matrix}
 $$
 
   
