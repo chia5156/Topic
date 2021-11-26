@@ -21,7 +21,7 @@
     
   * Count of Captcha: 10000
   
-  ![captcha]("./image/00001.jpg")
+  ![captcha](./image/00001.jpg)
 
   
 
