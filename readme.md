@@ -22,12 +22,11 @@
   * Count of Captcha: 10000
   
   ![captcha](./image/00001.jpg)
-$$
-\begin{bmatrix}
-1 & 2 & 3 \\\\
-4 & 5 & 6 \\\\
-7 & 8 & 9
-\end{bmatrix}
+$$\begin{matrix}
+0&1&1\\
+1&1&0\\
+1&0&1\\
+\end{matrix}$$
 $$
 
   
