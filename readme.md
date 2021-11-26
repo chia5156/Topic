@@ -22,7 +22,18 @@
   * Count of Captcha: 10000
   
   ![captcha](./image/00001.jpg)
+$$ 
+\left[ 
+\begin{matrix} 
+1 & 2 & \cdots & 4 \\\\
+5 & 6 & \cdots & 8 \\\\
+\vdots & \vdots & \ddots & \vdots \\\\ 
+9 & 10 & \cdots & 12 \\\\ 
+\end{matrix} 
+\right] 
+$$
 
+  
   
 
 
