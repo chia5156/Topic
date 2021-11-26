@@ -24,10 +24,10 @@
   ![captcha](./image/00001.jpg)
  
 $$
-\begin{matrix}
-a & b & c \\
-d & e & f \\
-\end{matrix}
+begin{matrix}
+a & b & c \\\
+d & e & f \\\
+end{matrix}
 $$
   
 
