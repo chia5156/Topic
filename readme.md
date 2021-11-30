@@ -20,22 +20,11 @@
     Image size: (22, 50)
     
   * Count of Captcha: 10000
-<<<<<<< HEAD
 
-  ![captcha]("https://github.com/chia5156/Topic/blob/master/image/00000.jpg")
 --- 
-
-
-
-
-
-
-=======
-  
   將圖片轉成(22, 50)的矩陣
   * <a href="https://www.codecogs.com/eqnedit.php?latex=\left[&space;\begin{matrix}&space;x(0,0)&space;&&space;x(0,1)&space;&&space;\cdots&space;&&space;x(0,55)&space;\\\\&space;x(1,0)&space;&&space;x(1,1)&space;&&space;\cdots&space;&&space;x(1,55)&space;\\\\&space;\vdots&space;&&space;\vdots&space;&&space;\ddots&space;&&space;\vdots&space;\\\\&space;x(22,0)&space;&&space;(22,1)&space;&&space;\cdots&space;&&space;x(22,55)&space;\\\\&space;\end{matrix}&space;\right]" target="_blank"><img src="https://latex.codecogs.com/png.latex?\left[&space;\begin{matrix}&space;x(0,0)&space;&&space;x(0,1)&space;&&space;\cdots&space;&&space;x(0,55)&space;\\\\&space;x(1,0)&space;&&space;x(1,1)&space;&&space;\cdots&space;&&space;x(1,55)&space;\\\\&space;\vdots&space;&&space;\vdots&space;&&space;\ddots&space;&&space;\vdots&space;\\\\&space;x(22,0)&space;&&space;(22,1)&space;&&space;\cdots&space;&&space;x(22,55)&space;\\\\&space;\end{matrix}&space;\right]" title="\left[ \begin{matrix} x(0,0) & x(0,1) & \cdots & x(0,55) \\\\ x(1,0) & x(1,1) & \cdots & x(1,55) \\\\ \vdots & \vdots & \ddots & \vdots \\\\ x(22,0) & (22,1) & \cdots & x(22,55) \\\\ \end{matrix} \right]" /></a>
  
->>>>>>> 276b56e5849e614e6772da24bceac2d8c5a3fb22
 
 
 
