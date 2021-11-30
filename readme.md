@@ -33,9 +33,9 @@
 
 ## 2.3 Standardization per pixel
   * 將每個向素標準化，用下列規則
-  # Step4. Compare per GrayScale value to mean, use below's rule 
-  #        if the value < mean change it to 0
-  #        if the value >= mean change it to 1 
+   Step4. Compare per GrayScale value to mean, use below's rule 
+          if the value < mean change it to 0
+          if the value >= mean change it to 1 
 
 ## 2.2-Find Similar Imgae 
   * Hamming distance 
