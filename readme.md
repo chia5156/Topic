@@ -48,12 +48,12 @@
   |![image](./image/00003.jpg)|![image](./image/00003_digit1_gray.jpg)|![image](./image/00003_digit2_gray.jpg)|![image](./image/00003_digit3_gray.jpg)|![image](./image/00003_digit4_gray.jpg)|
   |![image](./image/00004.jpg)|![image](./image/00004_digit1_gray.jpg)|![image](./image/00004_digit2_gray.jpg)|![image](./image/00004_digit3_gray.jpg)|![image](./image/00004_digit4_gray.jpg)|
 ## 2.3 Standardization per pixel
-  * 將每個向素標準化，用下列規則  
+  * 將矩陣中每個向素標準化，用下列規則  
 
   <a href="https://www.codecogs.com/eqnedit.php?latex=\bar&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bar&space;x" title="\bar x" /></a> 代表每個向素的平均數, 
  <a href="https://www.codecogs.com/eqnedit.php?latex=x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x" title="x" /></a>代表矩陣裡每個元素  
  <a href="https://www.codecogs.com/eqnedit.php?latex=f(x)&space;=&space;\begin{cases}&space;1&space;&\text{if&space;}&space;x&space;\le&space;\bar&space;x&space;\\\\&space;0&space;&\text{if&space;}&space;x&space;>&space;\bar&space;x&space;\end{cases}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(x)&space;=&space;\begin{cases}&space;1&space;&\text{if&space;}&space;x&space;\le&space;\bar&space;x&space;\\\\&space;0&space;&\text{if&space;}&space;x&space;>&space;\bar&space;x&space;\end{cases}" title="f(x) = \begin{cases} 1 &\text{if } x \le \bar x \\\\ 0 &\text{if } x > \bar x \end{cases}" /></a>
-## 2.2-Find Similar Imgae
+## 2.2-Find Similar Image
 
   * Hamming distance 
 
