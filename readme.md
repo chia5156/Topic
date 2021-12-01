@@ -43,6 +43,10 @@
   |Captcha|Gray_Digit1|Gray_Digit2|Gray_Digit3|Gray_Digit4|
   |-------|:---------:|:---------:|:---------:|:---------:|
   |![image](./image/00000.jpg)|![image](./image/00000_digit1_gray.jpg)|![image](./image/00000_digit2_gray.jpg)|![image](./image/00000_digit3_gray.jpg)|![image](./image/00000_digit4_gray.jpg)|
+  |![image](./image/00001.jpg)|![image](./image/00001_digit1_gray.jpg)|![image](./image/00001_digit2_gray.jpg)|![image](./image/00001_digit3_gray.jpg)|![image](./image/00001_digit4_gray.jpg)|
+  |![image](./image/00002.jpg)|![image](./image/00002_digit1_gray.jpg)|![image](./image/00002_digit2_gray.jpg)|![image](./image/00002_digit3_gray.jpg)|![image](./image/00002_digit4_gray.jpg)|
+  |![image](./image/00003.jpg)|![image](./image/00003_digit1_gray.jpg)|![image](./image/00003_digit2_gray.jpg)|![image](./image/00003_digit3_gray.jpg)|![image](./image/00003_digit4_gray.jpg)|
+  |![image](./image/00004.jpg)|![image](./image/00004_digit1_gray.jpg)|![image](./image/00004_digit2_gray.jpg)|![image](./image/00004_digit3_gray.jpg)|![image](./image/00004_digit4_gray.jpg)|
 ## 2.3 Standardization per pixel
   * 將每個向素標準化，用下列規則  
 
