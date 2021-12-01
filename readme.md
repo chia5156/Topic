@@ -39,11 +39,10 @@
 
   ![digit_1](./image/digit_1.jpg)    ![dig_2](./image/digit_2.jpg)    ![digit_3](./image/digit_3.jpg)    ![digit_4](./image/digit_4.jpg)
 ## 2.2-Simplify color 
-  * 簡單來說就是將圖片灰度化，這邊是將4個數字切割完後個別灰度化。  
+  簡單來說就是將圖片灰度化，這邊是將4個數字切割完後個別灰度化。  
   |Captcha|Gray_Digit1|Gray_Digit2|Gray_Digit3|Gray_Digit4|
   |-------|:---------:|:---------:|:---------:|:---------:|
   |![image](./image/00000.jpg)|![image](./image/00000_digit1_gray.jpg)|![image](./image/00000_digit2_gray.jpg)|![image](./image/00000_digit3_gray.jpg)|![image](./image/00000_digit4_gray.jpg)|
-
 ## 2.3 Standardization per pixel
   * 將每個向素標準化，用下列規則  
 
