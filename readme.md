@@ -28,7 +28,9 @@
     在放大圖片後，細看每個位置的數字發現到每個數字的顏色都有一個主要的顏色搭配其他的隨機  色彩去做干擾，並且在數字以外的地方也有灰色區塊出現在隨機的地方再搭配一些隨機的顏色。
 ---
 ## 2.1-Split Region Of Image
+  將圖片4個數字個別切割出來  
 
+  [digit_1](./image/digit_1.jpg)[dig_2](./image/digit_2.jpg)[digit_3](./image/digit_3.jpg)[digit_4](./image/digit_4.jpg)
 ## 2.2-Simplify color 
 
 ## 2.3 Standardization per pixel
