@@ -31,7 +31,9 @@
   將圖片4個數字個別切割出來  
   |Captcha|Digit_1|Digit_2|Digit_3|Digit_4|
   |-------|:-----:|:-----:|:-----:|:-----:|
-  |![image](./image/00000.jpg)|![digit_1](./image/digit_1.jpg)|![digit_2](./image/digit_2.jpg)|![digit_3](./image/digit_3.jpg)|![digit_4](./image/digit_4.jpg)|  
+  |![image](./image/00000.jpg)|![digit_1](./image/digit_1.jpg)|![digit_2](./image/digit_2.jpg)|![digit_3](./image/digit_3.jpg)|![digit_4](./image/digit_4.jpg)|
+  |![image](./image/00001.jpg)|![digit_1](./image/00001_digit1.jpg)|![digit2](./image/00001_digit2.jpg)|[!image](./image/00001_digit3.jpg)|![image](./image/00001_digit4.jpg)|  
+
 
   ![digit_1](./image/digit_1.jpg)    ![dig_2](./image/digit_2.jpg)    ![digit_3](./image/digit_3.jpg)    ![digit_4](./image/digit_4.jpg)
 ## 2.2-Simplify color 
