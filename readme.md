@@ -33,14 +33,8 @@
 
 ## 2.3 Standardization per pixel
   * 將每個向素標準化，用下列規則
-<<<<<<< HEAD
-   Step4. Compare per GrayScale value to mean, use below's rule 
-          if the value < mean change it to 0
-          if the value >= mean change it to 1 
-=======
 <a href="https://www.codecogs.com/eqnedit.php?latex=f(x)&space;=&space;\begin{cases}&space;1&space;&\text{if&space;}&space;x&space;\le&space;\bar&space;x&space;\\\\&space;0&space;&\text{if&space;}&space;x&space;>&space;\bar&space;x&space;\end{cases}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(x)&space;=&space;\begin{cases}&space;1&space;&\text{if&space;}&space;x&space;\le&space;\bar&space;x&space;\\\\&space;0&space;&\text{if&space;}&space;x&space;>&space;\bar&space;x&space;\end{cases}" title="f(x) = \begin{cases} 1 &\text{if } x \le \bar x \\\\ 0 &\text{if } x > \bar x \end{cases}" /></a>
 ## 2.2-Find Similar Imgae
->>>>>>> 07f6bd10 (uploads math function image)
 
   * Hamming distance 
 
