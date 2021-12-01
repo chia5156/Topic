@@ -29,6 +29,9 @@
 ---
 ## 2.1-Split Region Of Image
   將圖片4個數字個別切割出來  
+  |Captcha|Digit_1|Digit_2|Digit_3|Digit_4|
+  |-------|:-----:|:-----:|:-----:|:-----:|
+  |![image](./image/00000.jpg)|![digit_1](./image/digit_1.jpg)|![digit_2](./image/digit_2.jpg)|![digit_3](./image/digit_3.jpg)|![digit_4](./image/digit_4.jpg)|  
 
   ![digit_1](./image/digit_1.jpg)    ![dig_2](./image/digit_2.jpg)    ![digit_3](./image/digit_3.jpg)    ![digit_4](./image/digit_4.jpg)
 ## 2.2-Simplify color 
