@@ -37,7 +37,6 @@
   |![image](./image/00003.jpg)|![digit_1](./image/00003_digit1.jpg)|![digit2](./image/00003_digit2.jpg)|![image](./image/00003_digit3.jpg)|![image](./image/00003_digit4.jpg)| 
   |![image](./image/00004.jpg)|![digit_1](./image/00004_digit1.jpg)|![digit2](./image/00004_digit2.jpg)|![image](./image/00004_digit3.jpg)|![image](./image/00004_digit4.jpg)| 
 
-  ![digit_1](./image/digit_1.jpg)    ![dig_2](./image/digit_2.jpg)    ![digit_3](./image/digit_3.jpg)    ![digit_4](./image/digit_4.jpg)
 ## 2.2-Simplify color 
   簡單來說就是將圖片灰度化，這邊是將4個數字切割完後個別灰度化。  
   |Captcha|Gray_Digit1|Gray_Digit2|Gray_Digit3|Gray_Digit4|
