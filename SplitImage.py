@@ -1,6 +1,23 @@
 import cv2 
 import time 
 import numpy as np
+
+def Split_Image(image_path, row_start, row_stop, col_start, col_stop):
+        # Get the ROI (Region Of Image) using Numpy indexing
+        image = cv2.imread(image_path)
+        ROI = image[row_start: row_stop, col_start: col_stop]
+        k = cv2.waitKey(0)
+        return ROI
+def Split_Captcha(image_path, save_dir):
+    ROI = Split_Image(image_path, 5, 17, 7, 14)
+    cv2.imwrite(save_dir + "index_0.jpg", ROI)
+    ROI = Split_Image(image_path, 5, 17, 15, 22)
+    cv2.imwrite(save_dir + "index_1.jpg", ROI)
+    ROI = Split_Image(image_path, 5, 17, 25, 32)
+    cv2.imwrite(save_dir + "index_2.jpg", ROI)
+    ROI = Split_Image(image_path, 5, 17, 34, 41)
+    cv2.imwrite(save_dir + "index_3.jpg", ROI)
+
 if __name__ == "__main__":
     
     file_dir = "./"
