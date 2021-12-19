@@ -53,6 +53,17 @@
  <a href="https://www.codecogs.com/eqnedit.php?latex=x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x" title="x" /></a>代表矩陣裡每個元素  
  <a href="https://www.codecogs.com/eqnedit.php?latex=f(x)&space;=&space;\begin{cases}&space;1&space;&\text{if&space;}&space;x&space;\le&space;\bar&space;x&space;\\\\&space;0&space;&\text{if&space;}&space;x&space;>&space;\bar&space;x&space;\end{cases}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(x)&space;=&space;\begin{cases}&space;1&space;&\text{if&space;}&space;x&space;\le&space;\bar&space;x&space;\\\\&space;0&space;&\text{if&space;}&space;x&space;>&space;\bar&space;x&space;\end{cases}" title="f(x) = \begin{cases} 1 &\text{if } x \le \bar x \\\\ 0 &\text{if } x > \bar x \end{cases}" /></a>
 ## 2.2-Find Similar Image
+  |Representive of 4|Be tested img|Hamming Distance|Measurement error|Result|
+  |:---------------:|:-----------:|:--------------:|:---------------:|:----:|
+  |![image](./image/00000_digit1_gray.jpg)|![image](./image_for_poster/00088_gray.jpg)|5|13|T|
+  |![image](./image/00000_digit1_gray.jpg)|![image](./image_for_poster/00099_gray.jpg)|45|13|F|
+  |![image](./image/00000_digit1_gray.jpg)|![image](./image_for_poster/00101_gray.jpg)|35|13|F|
+  |![image](./image/00000_digit1_gray.jpg)|![image](./image_for_poster/00111_gray.jpg)|50|13|F|
+  |![image](./image/00000_digit1_gray.jpg)|![image](./image_for_poster/00120_gray.jpg)|39|13|F|
+  |![image](./image/00000_digit1_gray.jpg)|![image](./image_for_poster/00125_gray.jpg)|3|13|T|
+  |![image](./image/00000_digit1_gray.jpg)|![image](./image_for_poster/00215_gray.jpg)|41|13|F|
+
+
 
   * Hamming distance  
   將下列的矩陣的每個同樣索引的元素值做比對如果不相同的話測量誤差 + 1  
